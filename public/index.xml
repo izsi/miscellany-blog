@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Izsy&#39;s Miscellany</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Izsy&#39;s Miscellany</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 18 Feb 2020 15:49:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visiting History: Site of the Battle of Sekigahara</title>
+      <link>http://example.org/posts/sekigahara_travel/</link>
+      <pubDate>Tue, 18 Feb 2020 15:49:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sekigahara_travel/</guid>
+      <description>Note: the names are written surname first, given name second, as they are in Japanese.
+Out in the countryside of central Japan, somewhere in between the cities of Kyoto and Nagoya, is the small town of Sekigahara. From the window of a train it looks like nothing much, just a modest country town surrounded by fields and woods, but this place is sure to be found in any textbook of Japanese history.</description>
+    </item>
+    
+    <item>
+      <title>Game Review: Dynasty Warriors 9</title>
+      <link>http://example.org/posts/dw9_review/</link>
+      <pubDate>Tue, 10 Dec 2019 18:49:44 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dw9_review/</guid>
+      <description>Battle stages teeming with soldiers, a colourful cast of powerful generals based on historical figures, controls that are easy to pick up and provide extravagant action sequences perfect for stress-relief; these are some of the core features of the long-running Dynasty Warriors series. The fast-paced, action-focussed system has changed little over time, arguably because it does what it does very well, but has faced criticism for lack of innovation. The latest installment in the series has taken a large step away from the familiar formula and leapt into an open-world setting.</description>
+    </item>
+    
+  </channel>
+</rss>

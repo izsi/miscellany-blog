@@ -1,0 +1,9 @@
+baseURL = "izsi.github.io/miscellany-blog/"
+publishDir = "docs"
+languageCode = "en-uk"
+title = "Izsy's Miscellany"
+theme = "ananke-custom"
+[params]
+    body_classes = "helvetica"
+	custom_css = ["css/custom.css"]
+	twitter = "https://twitter.com/wheeltoise"
