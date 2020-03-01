@@ -1,4 +1,4 @@
-baseURL = "https://izsi.github.io/miscellany-blog/"
+baseURL = "izsi.github.io/miscellany-blog/"
 publishDir = "docs"
 languageCode = "en-uk"
 title = "Izsy's Miscellany"
