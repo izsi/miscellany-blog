@@ -6,4 +6,4 @@ theme = "ananke-custom"
 [params]
     body_classes = "helvetica"
 	custom_css = ["css/custom.css"]
-	twitter = "https://twitter.com/wheeltoise"
+	twitter = "https://twitter.com/izsy_misc"
