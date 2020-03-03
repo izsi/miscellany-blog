@@ -40,6 +40,9 @@
     </header>
 
     <section class="nested-copy-line-height lh-copy f4 nested-links mid-gray pr4-l">
+		<aside class="pb4 f5 tracked">
+			<i>{{- .Params.notes -}}</i>
+		</aside>
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">
@@ -52,7 +55,7 @@
       </div>
     </section>
 
-	<aside class="w-80-l mt4-l">
+	<aside class="w-80-l mt4-l mid-gray">
       {{- partial "about-author.html" . -}}
     </aside>
 

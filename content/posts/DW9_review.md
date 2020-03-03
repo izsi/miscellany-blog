@@ -1,10 +1,14 @@
 ---
 title: "Game Review: Dynasty Warriors 9"
 date: 2020-01-20T18:49:44Z
+images: 
+- '/images/DW9_review/Featured.jpg'
 featured_image: '/images/DW9_review/Featured.jpg'
 show_reading_time: true
-about_author: true
 draft: false
+
+about_author: true
+notes: "Note: All images in this article are screenshots from the game and copyright belongs to Koei Tecmo Games. Please do not re-upload or re-use anywhere."
 ---
 
 Battle stages teeming with soldiers, a colourful cast of powerful generals based on historical figures, controls that are easy to pick up and provide extravagant action sequences perfect for stress-relief; these are some of the core features of the long-running Dynasty Warriors series. The fast-paced, action-focussed system has changed little over time, arguably because it does what it does very well, but has faced criticism for lack of innovation. The latest installment in the series has taken a large step away from the familiar formula and leapt into an open-world setting. Whilst there are many shortcomings in this venture, the core tenets are still present and there are some positive changes worth mentioning. Whilst this is not a title for all, I would recommend it for some types of player. 
@@ -37,7 +41,6 @@ All in all, the vision for Dynasty Warriors 9 feels very ambitious. The idea of 
 
 {{< figure src="/images/DW9_review/LiuBei.jpg" caption="One of my attempts at photo mode" >}}
 
-*Note: All images in this article are screenshots from the game and copyright belongs to Koei Tecmo Games. Please do not re-upload or re-use anywhere.*
 
 
 

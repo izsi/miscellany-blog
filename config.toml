@@ -7,3 +7,4 @@ theme = "ananke-custom"
     body_classes = "helvetica"
 	custom_css = ["css/custom.css"]
 	twitter = "https://twitter.com/izsy_misc"
+	images = ["/images/MainImage.JPG"]

@@ -1,13 +1,15 @@
 ---
 title: "Visiting History: Site of the Battle of Sekigahara"
 date: 2020-02-22T15:49:44Z
-show_reading_time: true
+images: 
+- '/images/Sekigahara_travel/Featured.jpg'
 featured_image: '/images/Sekigahara_travel/Featured.jpg'
+show_reading_time: true
 draft: false
-about_author: true
----
 
-*Note: the names are written surname first, given name second, as they are in Japanese.*
+about_author: true
+notes: "Note: names are written surname first, given name second, as they are in Japanese."
+---
 
 Out in the countryside of central Japan, somewhere in between the cities of Kyoto and Nagoya is the small town of Sekigahara. From the window of a train it looks like nothing much, just a modest country town surrounded by fields and woods, but this place is sure to be found in any textbook of Japanese history. In the autumn of 1600 Sekigahara, already an important crossroad for the region’s transport links, also became a crossroad in history, staging one of the largest battles in Japan at the time. This was the Battle of Sekigahara, fought by armies amassed from across the country and marking the beginning of the end for an age of battles.
 
