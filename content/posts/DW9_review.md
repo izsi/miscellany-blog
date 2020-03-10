@@ -39,8 +39,11 @@ The music is still the energetic power metal that fans of the series know and lo
 
 All in all, the vision for Dynasty Warriors 9 feels very ambitious. The idea of experiencing the key battles of the Three Kingdoms period playing out across a vast land is appealing and has to an extent been delivered. However, while the open world setting fits with some of the themes of the game, there are many ways in which it comes into conflict with the Warriors experience and the overall execution feels incomplete. Outside the core action, there are details in the new features that feel rough around the edges, as if the studio itself hasn’t quite caught up with the change in engine and format. If you are interested exclusively in the hack and slash action, then this game is probably not for you. If riding through the land with your chosen warrior appeals and you enjoy seeing references to Chronicles and Romance of the Three Kingdoms, then do consider the title; there is a trial version for tasting. 
 
-{{< figure src="/images/DW9_review/LiuBei.jpg" caption="One of my attempts at photo mode" >}}
-
-
+{{< figure src="/images/DW9_review/LiuBei.jpg" caption="One of my attempts at photo mode" >}}  
+  
+\
+\
+*If you liked this article, why not share it?*
+{{< tweet 1234848564821491712 >}}
 
 
