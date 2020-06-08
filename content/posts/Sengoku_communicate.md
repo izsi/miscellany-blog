@@ -38,3 +38,8 @@ All these methods had their strengths and weaknesses and they were used in combi
 {{< figure src="/images/Sengoku_communicate/Torii_Suneemon.jpg" attr="image source" attrlink="https://commons.wikimedia.org/wiki/File:Torii_Suneemon.jpg" caption="A 19th century depiction of Torii Suneemon risking his life by telling beseiged allies at Nagashino Castle that reinforcements are on the way, after being ordered to declare the opposite by enemy troops who captured him" >}}
 
 
+\
+\
+*If you liked this article, why not share it?*
+{{< tweet 1270064333431676930 >}}
+
